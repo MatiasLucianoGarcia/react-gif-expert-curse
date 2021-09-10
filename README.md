@@ -1,4 +1,4 @@
-# Título del Proyecto
+# React Gif Expert App
 
 _Proyecto que utiliza la API Gifphy y permite listar los primeros 10 gif de una busqueda. Parte del curso de React._
 
